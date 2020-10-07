@@ -223,7 +223,7 @@ FINISH WRITING THIS SECTION
 #### Primality Testing
 
 ```ocaml
-isFactor : int -> int -> bool *)
+(*isFactor : int -> int -> bool *)
 let isFactor m n = n mod m = 0
 
 (* isPrime : int -> bool *)
