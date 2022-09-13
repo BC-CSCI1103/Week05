@@ -1,6 +1,6 @@
 #  CSCI 1103 Computer Science 1 Honors
 
-## Fall 2020
+## Fall 2022
 
 Robert Muller - Boston College
 
